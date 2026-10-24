@@ -11,6 +11,7 @@ import event4Photo from "../assets/event4.jpeg";
 import event5Photo from "../assets/event5.jpeg";
 import event6Photo from "../assets/event6.jpeg";
 import event7Photo from "../assets/event7-bunda-cerdas-academy.jpeg";
+import event8Photo from "../assets/event8-hjkb-216.jpeg";
 import protocolApelPhoto from "../assets/protocol-apel-honorarium.jpg";
 import protocolApelVideo from "../assets/videos/protocol-apel-honorarium.mp4";
 import protocolSharingPhoto from "../assets/protocol-sharing-session-unpad.jpg";
@@ -159,6 +160,14 @@ export const gallery = [
     description:
       "Welcomed and guided 200+ attendees to event areas in August 2026, provided clear information about the event schedule, booth locations, and facilities, and ensured entrance, seating, and emergency exits remained orderly throughout the event.",
     image: event7Photo,
+  },
+  {
+    id: "lo-hjkb-216",
+    title: "Liaison Officer — Hari Jadi Kota Bandung (HJKB) Festival ke-216",
+    role: "Liaison Officer",
+    description:
+      "Served as Liaison Officer for festival participants at the 216th Hari Jadi Kota Bandung Festival, acting as their point of contact between the committee and participants throughout the event.",
+    image: event8Photo,
   },
 ];
 
