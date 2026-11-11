@@ -184,7 +184,7 @@ export const gallery = [
     title: "Usher — Thufan Al-Aqsha",
     role: "Usher",
     description:
-      "Welcomed and guided attendees to event areas at Thufan Al-Aqsha, provided clear information about the event schedule and facilities, and ensured entrance and seating remained orderly throughout the event.",
+      "Welcomed and guided attendees to event areas at Thufan Al-Aqsha on 25 October 2026, provided clear information about the event schedule and facilities, and ensured entrance and seating remained orderly throughout the event.",
     image: event10Photo,
   },
 ];
