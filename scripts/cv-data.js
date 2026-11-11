@@ -29,7 +29,7 @@ export const cvWork = [
   {
     title: "Thufan Al-Aqsha",
     role: "Usher",
-    period: "",
+    period: "October 2026",
     bullets: [
       "Welcomed and guided attendees to event areas.",
       "Provided clear information about event schedule and facilities to guests.",
