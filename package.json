@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "oxlint",
     "cv": "node scripts/build-cv.mjs",
+    "portfolio-pdf": "node scripts/build-portfolio-pdf.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
