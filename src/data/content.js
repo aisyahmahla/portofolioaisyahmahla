@@ -13,6 +13,7 @@ import event6Photo from "../assets/event6.jpeg";
 import event7Photo from "../assets/event7-bunda-cerdas-academy.jpeg";
 import event8Photo from "../assets/event8-hjkb-216.jpeg";
 import event9Photo from "../assets/event9-finexpo-2026.jpeg";
+import event10Photo from "../assets/event10-thufan-al-aqsha.jpeg";
 import protocolApelPhoto from "../assets/protocol-apel-honorarium.jpg";
 import protocolApelVideo from "../assets/videos/protocol-apel-honorarium.mp4";
 import protocolSharingPhoto from "../assets/protocol-sharing-session-unpad.jpg";
@@ -177,6 +178,14 @@ export const gallery = [
     description:
       "Served as official floor crew at FinExpo 2026, supporting on-site event operations and coordinating with the team to keep the program running smoothly.",
     image: event9Photo,
+  },
+  {
+    id: "usher-thufan-al-aqsha",
+    title: "Usher — Thufan Al-Aqsha",
+    role: "Usher",
+    description:
+      "Welcomed and guided attendees to event areas at Thufan Al-Aqsha, provided clear information about the event schedule and facilities, and ensured entrance and seating remained orderly throughout the event.",
+    image: event10Photo,
   },
 ];
 
